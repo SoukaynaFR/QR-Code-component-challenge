@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-
+- Solution URL : https://www.frontendmentor.io/solutions/qr-code-component-CArxbfY-rT
 - Live Site URL: https://soukaynafr.github.io/QR-Code-component-challenge/
 
 
